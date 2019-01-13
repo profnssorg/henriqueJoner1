@@ -1,5 +1,5 @@
 """
-Descrição: Modelo de Jogo da Velha
+Descrição: Modelo de Jogo da Velha!
 Autor:Henrique Joner
 Versão:0.0.1
 Data:12/01/2019
